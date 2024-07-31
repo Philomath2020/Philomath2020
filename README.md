@@ -13,7 +13,7 @@
 
 ### Hi there 👋, Suhrobjon Ibodullaev
 #### I am a Data Scientist and intern in Natural language processing (NLP)
-![I am a Data Scientist and intern in Natural language processing (NLP))([https://pbs.twimg.com/profile_banners/945877361844568064/1583889522/1500x500](https://github.com/Philomath2020/Philomath2020/blob/main/Banner.png))
+![I am a Data Scientist and intern in Natural language processing (NLP)](https://github.com/Philomath2020/Philomath2020/blob/main/Banner.png)
 
 I’m interested in AI / ML , Natural Language Processing (NLP),Computer Vision (CV) .
 
