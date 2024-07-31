@@ -15,7 +15,7 @@
 * 🤗 Huggingface
 * 🌐 Gradio / Streamlit
 
-
+#### more about me
 - 🇺🇿 I am from Uzbekistan 
 - 🔭 I’m currently working on Internship 
 - 🌱 I’m currently learning Natural language processing(NLP)
