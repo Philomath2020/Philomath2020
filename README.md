@@ -1,8 +1,20 @@
-### Hi there 👋, Suhrobjon Ibodullaev
-#### I am a Data Scientist and intern in Natural language processing (NLP)
+
+
 ![I am a Data Scientist and intern in Natural language processing (NLP)](https://github.com/Philomath2020/Philomath2020/blob/main/Banner.png)
 
-Skills: Python / Pandas / Numpy / Matplotlib / Seaborn / Scikit-learn / Pytorch / Huggingface / Gradio / Streamlit
+# Suhrobjon Ibodullaev
+
+## I am a Data Scientist and intern in Natural language processing (NLP)
+
+### Skills and Tools:
+
+* 🐍 Python
+* 🔢 Pandas / Numpy
+* 📊 Matplotlib / Seaborn
+* 🔥 Scikit-learn / Pytorch
+* 🤗 Huggingface
+* 🌐 Gradio / Streamlit
+
 
 - 🇺🇿 I am from Uzbekistan 
 - 🔭 I’m currently working on Internship 
