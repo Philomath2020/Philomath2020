@@ -34,6 +34,7 @@
 
 ![Suhrobjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Philomath2020&show_icons=true&theme=radical)
 
-<img src="https://raw.githubusercontent.com/Philomath2020/Philomath2020/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
