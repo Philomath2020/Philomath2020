@@ -2,13 +2,6 @@
 #### I am a Data Scientist and intern in Natural language processing (NLP)
 ![I am a Data Scientist and intern in Natural language processing (NLP)](https://github.com/Philomath2020/Philomath2020/blob/main/Banner.png)
 
-I’m interested in AI / ML , Natural Language Processing (NLP),Computer Vision (CV) .
-
-During my studies, I thoroughly learned Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, and Pytorch through various practical exercises and completed small projects.
-
-In my free time, I explore the latest advancements in artificial intelligence and experiment with new technologies.
-
-
 Skills: Python / Pandas / Numpy / Matplotlib / Seaborn / Scikit-learn / Pytorch / Huggingface / Gradio / Streamlit
 
 - 🇺🇿 I am from Uzbekistan 
