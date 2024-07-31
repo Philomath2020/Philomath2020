@@ -11,7 +11,7 @@
 - 😇 If you wanna chat with me, write me on Telegram: https://t.me/@Usmon_Muhammad
 
 
-*more about me
+####more about me
 
 During my studies, I thoroughly learned Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, and Pytorch through various practical exercises and completed small projects.
 
